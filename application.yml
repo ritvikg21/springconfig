@@ -2,4 +2,4 @@ spring:
   application:
     name: service
 app:
-  message: "Hi ji from service"
+  message: "Hellooooo ji from service"
