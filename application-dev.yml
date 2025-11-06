@@ -1,3 +1,5 @@
 spring:
   application:
     name: devservice
+app:
+  message: "Hi ji"
